@@ -1,0 +1,7 @@
+mode='dev'
+
+#chatid of telegram bot here
+CHAT_ID=''
+
+#telegram bot token
+TELE_TOKEN=''
